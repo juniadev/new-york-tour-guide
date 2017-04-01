@@ -1,6 +1,8 @@
 # new-york-tour-guide
 New York Tour Guide, an Android app made for Udacity's Android Basics Nanodegree.
 
+All images were retrieved from Wikipedia (https://en.wikipedia.org/).
+
 The purpose of this project was to a "tour guide" app, that displays attractions of a certain city. 
 
 Specifications:

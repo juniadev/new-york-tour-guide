@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/ListItemMainLayout">
+
+    <ImageView
+        android:id="@+id/attraction_image"
+        style="@style/AttractionImage"
+        tools:src="@mipmap/ic_launcher"/>
+
+    <LinearLayout
+        android:id="@+id/text_container"
+        style="@style/ListItemTextContainer" >
+
+        <TextView
+            android:id="@+id/attraction_name"
+            style="@style/AttractionName"
+            tools:text="Statue of Liberty"/>
+
+        <TextView
+            android:id="@+id/attraction_address"
+            style="@style/AttractionAddressHours"
+            tools:text="Liberty Island, Nova York, NY 10004"/>
+
+        <TextView
+            android:id="@+id/attraction_hours"
+            style="@style/AttractionAddressHours"
+            tools:text="Everyday 08:30am - 4pm"/>
+
+    </LinearLayout>
+</LinearLayout>

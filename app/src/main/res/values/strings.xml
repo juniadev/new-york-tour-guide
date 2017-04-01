@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">New York Tour Guide</string>
+
+    <!-- Attraction categories -->
+    <string name="category_museums">Museums</string>
+    <string name="category_restaurants">Restaurants</string>
+    <string name="category_sightseeing">Sightseeing</string>
+    <string name="category_shopping">Shopping</string>
+
+    <!-- Attractions data -->
+    <string name="memorial_9_11">9/11 Memorial</string>
+    <string name="memorial_9_11_address">180 Greenwich St, World Trade Center</string>
+    <string name="memorial_9_11_hours">Everyday 9am-8pm</string>
+    <string name="met">Metropolitan Museum of Art</string>
+    <string name="met_address">1000 5th Ave</string>
+    <string name="met_hours">Everyday 10am-5:30pm</string>
+    <string name="ny_public_library">New York Public Library</string>
+    <string name="ny_public_library_address">476 5th Ave</string>
+    <string name="ny_public_library_hours">Everyday 10am-6pm</string>
+    <string name="moma">The Museum of Modern Art (MoMA)</string>
+    <string name="moma_address">11 West 53rd Street</string>
+    <string name="moma_hours">Everyday 10am-5:30pm</string>
+    <string name="natural_history">American Museum of Natural History</string>
+    <string name="natural_history_address">79th Street and Central Park West</string>
+    <string name="natural_history_hours">Everyday 10am-5:45pm</string>
+    <string name="planet_hollywood">Planet Hollywood</string>
+    <string name="planet_hollywood_address">1540 Broadway, Frnt 1</string>
+    <string name="planet_hollywood_hours">Everyday 11am-1am</string>
+    <string name="pisillo">Pisillo Italian Panini</string>
+    <string name="pisillo_address">97 Nassau St, 97 Nassau Street</string>
+    <string name="pisillo_hours">Everyday 11am-8pm</string>
+    <string name="five_guys">Five Guys</string>
+    <string name="five_guys_address">252 W 42nd St</string>
+    <string name="five_guys_hours">Everyday 10am-2am</string>
+    <string name="rudys">Rudy\'s Bar and Grill</string>
+    <string name="rudys_address">627 9th Ave, At W 44th S</string>
+    <string name="rudys_hours">Everyday 12am-4am</string>
+    <string name="shake_shack">Shake Shack</string>
+    <string name="shake_shack_address">49 Grand Central Terminal, Lower Level</string>
+    <string name="shake_shack_hours">Everyday 7am-11pm</string>
+    <string name="chelsea_market">Chelsea Market</string>
+    <string name="chelsea_market_address">75 9th Ave</string>
+    <string name="chelsea_market_hours">Everyday 10am5pm</string>
+    <string name="strand">The Strand Bookstore</string>
+    <string name="strand_address">828 Broadway</string>
+    <string name="strand_hours">Everyday 9:30am-8pm</string>
+    <string name="tiffany"><![CDATA[Tiffany & Co.]]></string>
+    <string name="tiffany_address">727 Fifth Ave., at 57th St</string>
+    <string name="tiffany_hours">Everyday 10am-7pm</string>
+    <string name="mms"><![CDATA[M&M\'s World New York]]></string>
+    <string name="mms_address">1600 Broadway, Located at Broadway and 48th</string>
+    <string name="mms_hours">Everyday 9am-0am</string>
+    <string name="macys">Macy\'s Herald Square</string>
+    <string name="macys_address">151 West 34th Street</string>
+    <string name="macys_hours">Everyday 10am-9pm</string>
+    <string name="central_park">Central Park</string>
+    <string name="central_park_address">59th to 110th Street, Manhattan Borough</string>
+    <string name="central_park_hours">Everyday 6am-1am</string>
+    <string name="high_line">High Line</string>
+    <string name="high_line_address">Nova York, NY 10014</string>
+    <string name="high_line_hours">Everyday 7am-7pm</string>
+    <string name="empire_state">Empire State Building</string>
+    <string name="empire_state_address">350 Fifth Avenue, Between 33rd and 34th Streets</string>
+    <string name="empire_state_hours">Everyday 11am-11pm</string>
+    <string name="statue_liberty">Statue of Liberty</string>
+    <string name="statue_liberty_address">Liberty Island</string>
+    <string name="statue_liberty_hours">Everyday 08:30am-4pm</string>
+    <string name="top_rock">Top of the Rock</string>
+    <string name="top_rock_address">30 Rockefeller Center</string>
+    <string name="top_rock_hours">Everyday 08am-11pm</string>
+</resources>
